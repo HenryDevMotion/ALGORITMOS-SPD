@@ -1,4 +1,4 @@
-#Problema = Acabamos de faer café e queremos saber a temperatura ideal para toma-lo que deve ser entre 60ºC e 65ºC.
+#Problema = Acabamos de fazer café e queremos saber a temperatura ideal para toma-lo que deve ser entre 60ºC e 65ºC.
 #Porém a temperatura cai 5% por minuto e a temperatura do ambiente influencia no esfriamento em 10 minutos.
 
 #O objetivo é descobrir o tempo exato em que a temperatura do café estará entre 60ºC e 65ºC
