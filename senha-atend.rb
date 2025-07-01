@@ -1,4 +1,4 @@
-#Problema - Ordenar as senhas de uma clínica proorizando gestantes e idosos dos atendimentos comuns
+#Problema - Ordenar as senhas de uma clínica priorizando gestantes e idosos dos atendimentos comuns
 # O que comecei escrevendo:
 
 puts "Informe sua idade:"
