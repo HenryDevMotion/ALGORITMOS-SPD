@@ -1,3 +1,7 @@
+# Problema - Manter consumo de 8.000 litros de água no mês de acordo com o uso dos comodos:
+# banheiro, cozinha e lavanderia, controlando o consumo diário ideal gerando alertas ao
+# setor que estiver acima do permitido.
+
 # Dificil este exercício. Travei neste ponto.
 
 def consumo_agua(vazao_m3_h, tempo_h)
